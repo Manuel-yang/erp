@@ -1,0 +1,282 @@
+{
+ "category": "",
+ "charts": [],
+ "content": "[{\"type\":\"spacer\",\"data\":{\"col\":12}},{\"type\":\"header\",\"data\":{\"text\":\"Your Shortcuts\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u9879\u76ee\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u4efb\u52a1\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u9879\u76ee\u6a21\u677f\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u9879\u76ee\u7c7b\u578b\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u9879\u76ee\u66f4\u65b0\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u65f6\u95f4\u8868\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u6d3b\u52a8\u7c7b\u578b\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u6d3b\u52a8\u8d39\u7528\",\"col\":4}},{\"type\":\"spacer\",\"data\":{\"col\":12}},{\"type\":\"header\",\"data\":{\"text\":\"Reports &amp; Masters\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u6bcf\u65e5\u5de5\u65f6\u6458\u8981\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u9879\u76ee\u76c8\u5229\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u9879\u76ee\u80a1\u7968\u8ffd\u8e2a\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u9879\u76ee\u8d26\u5355\u603b\u89c8\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5ef6\u671f\u4efb\u52a1\u603b\u89c8\",\"col\":4}}]",
+ "creation": "2020-03-02 15:46:04.874669",
+ "developer_mode_only": 0,
+ "disable_user_customization": 0,
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "extends": "",
+ "extends_another_page": 0,
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "project",
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 0,
+ "label": "Projects",
+ "links": [
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Project",
+   "link_count": 0,
+   "link_to": "Project",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Task",
+   "link_count": 0,
+   "link_to": "Task",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Project Template",
+   "link_count": 0,
+   "link_to": "Project Template",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Project Type",
+   "link_count": 0,
+   "link_to": "Project Type",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "Project",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Project Update",
+   "link_count": 0,
+   "link_to": "Project Update",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Timesheet",
+   "link_count": 0,
+   "link_to": "Timesheet",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Activity Type",
+   "link_count": 0,
+   "link_to": "Activity Type",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "Activity Type",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Activity Cost",
+   "link_count": 0,
+   "link_to": "Activity Cost",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "Timesheet",
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Daily Timesheet Summary",
+   "link_count": 0,
+   "link_to": "Daily Timesheet Summary",
+   "link_type": "Report",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "Timesheet",
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Employee Hours Utilization",
+   "link_count": 0,
+   "link_to": "Employee Hours Utilization Based On Timesheet",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "Timesheet, Sales Invoice, Salary Slip",
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Project Profitability",
+   "link_count": 0,
+   "link_to": "Project Profitability",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "Project",
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Project wise Stock Tracking",
+   "link_count": 0,
+   "link_to": "Project wise Stock Tracking",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "Project",
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Project Billing Summary",
+   "link_count": 0,
+   "link_to": "Project Billing Summary",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "Task",
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Delayed Tasks Summary",
+   "link_count": 0,
+   "link_to": "Delayed Tasks Summary",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2021-09-01 14:28:52.188915",
+ "modified_by": "Administrator",
+ "module": "Projects",
+ "name": "Projects",
+ "onboarding": "",
+ "owner": "Administrator",
+ "parent_page": "",
+ "pin_to_bottom": 0,
+ "pin_to_top": 0,
+ "public": 1,
+ "restrict_to_domain": "",
+ "roles": [],
+ "sequence_id": 20,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u9879\u76ee\u6a21\u677f",
+   "link_to": "Project Template",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u9879\u76ee\u66f4\u65b0",
+   "link_to": "Project Update",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u9879\u76ee\u8d26\u5355\u603b\u89c8",
+   "link_to": "Project Billing Summary",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u6d3b\u52a8\u7c7b\u578b",
+   "link_to": "Activity Type",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u65f6\u95f4\u8868",
+   "link_to": "Timesheet",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u9879\u76ee",
+   "link_to": "Project",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u6d3b\u52a8\u8d39\u7528",
+   "link_to": "Activity Cost",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u4efb\u52a1",
+   "link_to": "Task",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u9879\u76ee\u7c7b\u578b",
+   "link_to": "Project Type",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5ef6\u671f\u4efb\u52a1\u603b\u89c8",
+   "link_to": "Delayed Tasks Summary",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u6bcf\u65e5\u5de5\u65f6\u6458\u8981",
+   "link_to": "Daily Timesheet Summary",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u9879\u76ee\u76c8\u5229",
+   "link_to": "Project Profitability",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u9879\u76ee\u80a1\u7968\u8ffd\u8e2a",
+   "link_to": "Project wise Stock Tracking",
+   "type": "Report"
+  }
+ ],
+ "title": "Projects"
+}
