@@ -6,7 +6,7 @@
    "label": "Outgoing Salary"
   }
  ],
- "content": "[{\"type\": \"onboarding\", \"data\": {\"onboarding_name\":\"Human Resource\", \"col\": 12}}, {\"type\": \"chart\", \"data\": {\"chart_name\": \"Outgoing Salary\", \"col\": 12}}, {\"type\": \"spacer\", \"data\": {\"col\": 12}}, {\"type\": \"header\", \"data\": {\"text\": \"Your Shortcuts\", \"level\": 4, \"col\": 12}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Employee\", \"col\": 4}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Leave Application\", \"col\": 4}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Attendance\", \"col\": 4}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Job Applicant\", \"col\": 4}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Monthly Attendance Sheet\", \"col\": 4}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Dashboard\", \"col\": 4}}, {\"type\": \"spacer\", \"data\": {\"col\": 12}}, {\"type\": \"header\", \"data\": {\"text\": \"Reports & Masters\", \"level\": 4, \"col\": 12}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Employee\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Employee Lifecycle\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Shift Management\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Leaves\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Attendance\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Expense Claims\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Settings\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Fleet Management\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Recruitment\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Loans\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Training\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Performance\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Key Reports\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Other Reports\", \"col\": 4}}]",
+ "content": "[{\"type\":\"chart\",\"data\":{\"chart_name\":\"Outgoing Salary\",\"col\":12}},{\"type\":\"spacer\",\"data\":{\"col\":12}},{\"type\":\"header\",\"data\":{\"text\":\"\u5458\u5de5\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5458\u5de5\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5206\u652f\u673a\u6784\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u804c\u4f4d\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5458\u5de5\u79cd\u7c7b\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5458\u5de5\u804c\u7ea7\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5458\u5de5\u533b\u4fdd\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u90e8\u95e8\",\"col\":4}},{\"type\":\"spacer\",\"data\":{\"col\":12}},{\"type\":\"header\",\"data\":{\"text\":\"\u5458\u5de5\u5468\u671f\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5458\u5de5\u79bb\u804c\u6a21\u677f\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5458\u5de5\u5165\u804c\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5458\u5de5\u53d8\u52a8\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5458\u5de5\u5165\u804c\u6a21\u677f\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5458\u5de5\u6280\u80fd\u56fe\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5458\u5de5\u79bb\u804c\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5458\u5de5\u7533\u8bc9\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u7533\u8bc9\u79cd\u7c7b\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5458\u5de5\u664b\u5347\",\"col\":4}},{\"type\":\"header\",\"data\":{\"text\":\"\u73ed\u6b21\u7ba1\u7406\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u73ed\u6b21\u79cd\u7c7b\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u73ed\u6b21\u5206\u914d\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5de5\u4f5c\u73ed\u522b\u7533\u8bf7\",\"col\":4}},{\"type\":\"header\",\"data\":{\"text\":\"\u4f11\u5047\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5047\u671f\u8868\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8865\u52a0\u7533\u8bf7\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u4f11\u5047\u7c7b\u578b\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u4f11\u5047\u653f\u7b56\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u4f11\u5047\u7533\u8bf7\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u4f11\u5047\u5929\u6570\u5206\u914d\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u4f11\u5047\u65f6\u95f4\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u4f11\u5047\u6298\u73b0\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u7981\u6b62\u4f11\u5047\u5217\u8868\",\"col\":4}},{\"type\":\"header\",\"data\":{\"text\":\"\u8003\u52e4\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8003\u52e4\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8003\u52e4\u7533\u8bf7\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5458\u5de5\u7b7e\u5230\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u62a5\u9500\",\"col\":4}},{\"type\":\"header\",\"data\":{\"text\":\"\u62a5\u9500\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u62a5\u9500\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5458\u5de5\u9884\u652f\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u51fa\u5dee\u7533\u8bf7\",\"col\":4}},{\"type\":\"header\",\"data\":{\"text\":\"\u8bbe\u7f6e\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u6bcf\u65e5\u5de5\u4f5c\u603b\u7ed3\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u56e2\u961f\u5347\u7ea7\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u53f8\u673a\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8f66\u8f86\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8f66\u8f86\u767b\u5f55\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8f66\u8f86\u8d39\u7528\",\"col\":4}},{\"type\":\"header\",\"data\":{\"text\":\"\u62db\u52df\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u804c\u52a1\u7a7a\u7f3a\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5458\u5de5\u63a8\u8350\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u6c42\u804c\u8005\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5de5\u4f5cOffer\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u4eba\u529b\u9700\u6c42\u8ba1\u5212\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u9884\u7ea6\u4fe1\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u9884\u7ea6\u4fe1\u6a21\u677f\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8d37\u6b3e\u7533\u8bf7\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8d37\u6b3e\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8d37\u6b3e\u7c7b\u578b\",\"col\":4}}]",
  "creation": "2020-03-02 15:48:58.322521",
  "developer_mode_only": 0,
  "disable_user_customization": 0,
@@ -22,14 +22,6 @@
  "is_standard": 0,
  "label": "HR",
  "links": [
-  {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Employee",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
-  },
   {
    "dependencies": "",
    "hidden": 0,
@@ -117,14 +109,6 @@
    "link_type": "DocType",
    "onboard": 0,
    "type": "Link"
-  },
-  {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Employee Lifecycle",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
   },
   {
    "dependencies": "Job Applicant",
@@ -224,14 +208,6 @@
    "type": "Link"
   },
   {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Shift Management",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
-  },
-  {
    "dependencies": "",
    "hidden": 0,
    "is_query_report": 0,
@@ -263,14 +239,6 @@
    "link_type": "DocType",
    "onboard": 0,
    "type": "Link"
-  },
-  {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Leaves",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
   },
   {
    "dependencies": "",
@@ -383,14 +351,6 @@
    "type": "Link"
   },
   {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Attendance",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
-  },
-  {
    "dependencies": "Employee",
    "hidden": 0,
    "is_query_report": 0,
@@ -446,14 +406,6 @@
    "type": "Link"
   },
   {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Expense Claims",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
-  },
-  {
    "dependencies": "Employee",
    "hidden": 0,
    "is_query_report": 0,
@@ -484,14 +436,6 @@
    "link_type": "DocType",
    "onboard": 0,
    "type": "Link"
-  },
-  {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Settings",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
   },
   {
    "dependencies": "",
@@ -525,14 +469,6 @@
    "link_type": "Page",
    "onboard": 0,
    "type": "Link"
-  },
-  {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Fleet Management",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
   },
   {
    "hidden": 0,
@@ -576,14 +512,6 @@
    "link_type": "Report",
    "onboard": 0,
    "type": "Link"
-  },
-  {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Recruitment",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
   },
   {
    "dependencies": "",
@@ -660,14 +588,6 @@
    "type": "Link"
   },
   {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Loans",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
-  },
-  {
    "dependencies": "Employee",
    "hidden": 0,
    "is_query_report": 0,
@@ -699,14 +619,6 @@
    "link_type": "DocType",
    "onboard": 0,
    "type": "Link"
-  },
-  {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Training",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
   },
   {
    "dependencies": "",
@@ -753,14 +665,6 @@
    "type": "Link"
   },
   {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Performance",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
-  },
-  {
    "dependencies": "",
    "hidden": 0,
    "is_query_report": 0,
@@ -803,14 +707,6 @@
    "link_type": "DocType",
    "onboard": 0,
    "type": "Link"
-  },
-  {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Key Reports",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
   },
   {
    "dependencies": "Attendance",
@@ -879,14 +775,6 @@
    "type": "Link"
   },
   {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Other Reports",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
-  },
-  {
    "dependencies": "Employee",
    "hidden": 0,
    "is_query_report": 0,
@@ -931,7 +819,7 @@
    "type": "Link"
   }
  ],
- "modified": "2021-08-05 12:15:59.842918",
+ "modified": "2021-09-02 09:41:49.802385",
  "modified_by": "Administrator",
  "module": "HR",
  "name": "HR",
@@ -946,43 +834,354 @@
  "sequence_id": 14,
  "shortcuts": [
   {
-   "color": "Green",
-   "format": "{} Active",
-   "label": "Employee",
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8d37\u6b3e\u7533\u8bf7",
+   "link_to": "Loan Application",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5458\u5de5",
    "link_to": "Employee",
-   "stats_filter": "{\"status\":\"Active\"}",
    "type": "DocType"
   },
   {
-   "color": "Yellow",
-   "format": "{} Open",
-   "label": "Leave Application",
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8d37\u6b3e",
+   "link_to": "Loan",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5206\u652f\u673a\u6784",
+   "link_to": "Branch",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u804c\u4f4d",
+   "link_to": "Designation",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8d37\u6b3e\u7c7b\u578b",
+   "link_to": "Loan Type",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5458\u5de5\u79cd\u7c7b",
+   "link_to": "Employment Type",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5458\u5de5\u804c\u7ea7",
+   "link_to": "Employee Grade",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5458\u5de5\u533b\u4fdd",
+   "link_to": "Employee Health Insurance",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u90e8\u95e8",
+   "link_to": "Department",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5458\u5de5\u79bb\u804c\u6a21\u677f",
+   "link_to": "Employee Separation Template",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5458\u5de5\u5165\u804c",
+   "link_to": "Employee Onboarding",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5458\u5de5\u53d8\u52a8",
+   "link_to": "Employee Transfer",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5458\u5de5\u5165\u804c\u6a21\u677f",
+   "link_to": "Employee Onboarding Template",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5458\u5de5\u6280\u80fd\u56fe",
+   "link_to": "Employee Skill Map",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5458\u5de5\u79bb\u804c",
+   "link_to": "Employee Separation",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5458\u5de5\u7533\u8bc9",
+   "link_to": "Employee Grievance",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u7533\u8bc9\u79cd\u7c7b",
+   "link_to": "Grievance Type",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5458\u5de5\u664b\u5347",
+   "link_to": "Employee Promotion",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u73ed\u6b21\u79cd\u7c7b",
+   "link_to": "Shift Type",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u73ed\u6b21\u5206\u914d",
+   "link_to": "Shift Assignment",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5de5\u4f5c\u73ed\u522b\u7533\u8bf7",
+   "link_to": "Shift Request",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5047\u671f\u8868",
+   "link_to": "Holiday List",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8865\u52a0\u7533\u8bf7",
+   "link_to": "Compensatory Leave Request",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u4f11\u5047\u7c7b\u578b",
+   "link_to": "Leave Type",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u4f11\u5047\u653f\u7b56",
+   "link_to": "Leave Policy",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u4f11\u5047\u7533\u8bf7",
    "link_to": "Leave Application",
-   "stats_filter": "{\"status\":\"Open\"}",
    "type": "DocType"
   },
   {
-   "label": "Attendance",
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u4f11\u5047\u5929\u6570\u5206\u914d",
+   "link_to": "Leave Allocation",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u4f11\u5047\u65f6\u95f4",
+   "link_to": "Leave Period",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u4f11\u5047\u6298\u73b0",
+   "link_to": "Leave Encashment",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u7981\u6b62\u4f11\u5047\u5217\u8868",
+   "link_to": "Leave Block List",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8003\u52e4",
    "link_to": "Attendance",
-   "stats_filter": "",
    "type": "DocType"
   },
   {
-   "label": "Job Applicant",
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8003\u52e4\u7533\u8bf7",
+   "link_to": "Attendance Request",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5458\u5de5\u7b7e\u5230",
+   "link_to": "Employee Checkin",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u62a5\u9500",
+   "link_to": "Expense Claim",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5458\u5de5\u9884\u652f",
+   "link_to": "Employee Advance",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u51fa\u5dee\u7533\u8bf7",
+   "link_to": "Travel Request",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u6bcf\u65e5\u5de5\u4f5c\u603b\u7ed3",
+   "link_to": "Daily Work Summary Group",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u56e2\u961f\u5347\u7ea7",
+   "link_to": "team-updates",
+   "type": "Page"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u53f8\u673a",
+   "link_to": "Driver",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8f66\u8f86",
+   "link_to": "Vehicle",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8f66\u8f86\u767b\u5f55",
+   "link_to": "Vehicle Log",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8f66\u8f86\u8d39\u7528",
+   "link_to": "Vehicle Expenses",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u804c\u52a1\u7a7a\u7f3a",
+   "link_to": "Job Opening",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5458\u5de5\u63a8\u8350",
+   "link_to": "Employee Referral",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u6c42\u804c\u8005",
    "link_to": "Job Applicant",
    "type": "DocType"
   },
   {
-   "label": "Monthly Attendance Sheet",
-   "link_to": "Monthly Attendance Sheet",
-   "type": "Report"
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5de5\u4f5cOffer",
+   "link_to": "Job Offer",
+   "type": "DocType"
   },
   {
-   "format": "{} Open",
-   "label": "Dashboard",
-   "link_to": "Human Resource",
-   "stats_filter": "{\n    \"status\": \"Open\"\n}",
-   "type": "Dashboard"
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u4eba\u529b\u9700\u6c42\u8ba1\u5212",
+   "link_to": "Staffing Plan",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u9884\u7ea6\u4fe1",
+   "link_to": "Appointment Letter",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u9884\u7ea6\u4fe1\u6a21\u677f",
+   "link_to": "Appointment Letter Template",
+   "type": "DocType"
   }
  ],
  "title": "HR"

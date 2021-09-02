@@ -3,10 +3,10 @@
  "charts": [
   {
    "chart_name": "Asset Value Analytics",
-   "label": "Asset Value Analytics"
+   "label": "\u8d44\u4ea7\u4ef7\u503c\u5206\u6790"
   }
  ],
- "content": "[{\"type\": \"onboarding\", \"data\": {\"onboarding_name\":\"Assets\", \"col\": 12}}, {\"type\": \"chart\", \"data\": {\"chart_name\": \"Asset Value Analytics\", \"col\": 12}}, {\"type\": \"spacer\", \"data\": {\"col\": 12}}, {\"type\": \"header\", \"data\": {\"text\": \"Your Shortcuts\", \"level\": 4, \"col\": 12}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Asset\", \"col\": 4}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Asset Category\", \"col\": 4}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Fixed Asset Register\", \"col\": 4}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Dashboard\", \"col\": 4}}, {\"type\": \"spacer\", \"data\": {\"col\": 12}}, {\"type\": \"header\", \"data\": {\"text\": \"Reports & Masters\", \"level\": 4, \"col\": 12}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Assets\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Maintenance\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Reports\", \"col\": 4}}]",
+ "content": "[{\"type\":\"chart\",\"data\":{\"chart_name\":\"\u8d44\u4ea7\u4ef7\u503c\u5206\u6790\",\"col\":12}},{\"type\":\"header\",\"data\":{\"text\":\"\u8d44\u4ea7\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8d44\u4ea7\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u4f4d\u7f6e\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8d44\u4ea7\u7c7b\u522b\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8d44\u4ea7\u79fb\u52a8\",\"col\":4}},{\"type\":\"header\",\"data\":{\"text\":\"\u7ef4\u62a4\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8d44\u4ea7\u7ef4\u62a4\u56e2\u961f\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8d44\u4ea7\u7ef4\u62a4\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8d44\u4ea7\u7ef4\u62a4\u65e5\u5fd7\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8d44\u4ea7\u4ef7\u503c\u8c03\u6574\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8d44\u4ea7\u4fee\u590d\",\"col\":4}},{\"type\":\"header\",\"data\":{\"text\":\"\u62a5\u544a\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8d44\u4ea7\u6298\u65e7\u603b\u8d26\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8d44\u4ea7\u6298\u65e7\u548c\u4f59\u989d\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8d44\u4ea7\u7ef4\u62a4\",\"col\":4}}]",
  "creation": "2020-03-02 15:43:27.634865",
  "developer_mode_only": 0,
  "disable_user_customization": 0,
@@ -22,14 +22,6 @@
  "is_standard": 0,
  "label": "Assets",
  "links": [
-  {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Assets",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
-  },
   {
    "dependencies": "",
    "hidden": 0,
@@ -73,14 +65,6 @@
    "link_type": "DocType",
    "onboard": 0,
    "type": "Link"
-  },
-  {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Maintenance",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
   },
   {
    "dependencies": "",
@@ -138,14 +122,6 @@
    "type": "Link"
   },
   {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Reports",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
-  },
-  {
    "dependencies": "Asset",
    "hidden": 0,
    "is_query_report": 1,
@@ -179,7 +155,7 @@
    "type": "Link"
   }
  ],
- "modified": "2021-08-05 12:15:54.839452",
+ "modified": "2021-09-02 09:51:08.305016",
  "modified_by": "Administrator",
  "module": "Assets",
  "name": "Assets",
@@ -194,24 +170,81 @@
  "sequence_id": 4,
  "shortcuts": [
   {
-   "label": "Asset",
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8d44\u4ea7",
    "link_to": "Asset",
    "type": "DocType"
   },
   {
-   "label": "Asset Category",
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u4f4d\u7f6e",
+   "link_to": "Location",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8d44\u4ea7\u7c7b\u522b",
    "link_to": "Asset Category",
    "type": "DocType"
   },
   {
-   "label": "Fixed Asset Register",
-   "link_to": "Fixed Asset Register",
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8d44\u4ea7\u79fb\u52a8",
+   "link_to": "Asset Movement",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8d44\u4ea7\u7ef4\u62a4\u56e2\u961f",
+   "link_to": "Asset Maintenance Team",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8d44\u4ea7\u7ef4\u62a4\u65e5\u5fd7",
+   "link_to": "Asset Maintenance Log",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8d44\u4ea7\u4ef7\u503c\u8c03\u6574",
+   "link_to": "Asset Value Adjustment",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8d44\u4ea7\u4fee\u590d",
+   "link_to": "Asset Repair",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8d44\u4ea7\u6298\u65e7\u603b\u8d26",
+   "link_to": "Asset Depreciation Ledger",
    "type": "Report"
   },
   {
-   "label": "Dashboard",
-   "link_to": "Asset",
-   "type": "Dashboard"
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8d44\u4ea7\u6298\u65e7\u548c\u4f59\u989d",
+   "link_to": "Asset Depreciations and Balances",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8d44\u4ea7\u7ef4\u62a4",
+   "link_to": "Asset Maintenance",
+   "type": "Report"
   }
  ],
  "title": "Assets"

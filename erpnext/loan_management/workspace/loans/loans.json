@@ -1,0 +1,336 @@
+{
+ "category": "",
+ "charts": [],
+ "content": "[{\"type\":\"header\",\"data\":{\"text\":\"\u8d37\u6b3e\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8d37\u6b3e\u7c7b\u578b\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8d37\u6b3e\u7533\u8bf7\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8d37\u6b3e\",\"col\":4}},{\"type\":\"header\",\"data\":{\"text\":\"\u8d37\u6b3e\u6d41\u7a0b\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u6d41\u7a0b\u8d37\u6b3e\u5b89\u5168\u6f0f\u6d1e\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u6d41\u7a0b\u8d37\u6b3e\u5229\u606f\u8ba1\u63d0\",\"col\":4}},{\"type\":\"header\",\"data\":{\"text\":\"\u652f\u4ed8\u548c\u507f\u8fd8\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8d37\u6b3e\u652f\u51fa\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u507f\u8fd8\u8d37\u6b3e\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8d37\u6b3e\u6ce8\u9500\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8d37\u6b3e\u5229\u606f\u8ba1\u63d0\",\"col\":4}},{\"type\":\"header\",\"data\":{\"text\":\"\u8d37\u6b3e\u5b89\u5168\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8d37\u6b3e\u62c5\u4fdd\u4ef7\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8d37\u6b3e\u62c5\u4fdd\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8d37\u6b3e\u62b5\u62bc\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8d37\u6b3e\u62c5\u4fdd\u89e3\u9664\u62b5\u62bc\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8d37\u6b3e\u5b89\u5168\u7f3a\u53e3\",\"col\":4}},{\"type\":\"header\",\"data\":{\"text\":\"\u62a5\u544a\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u507f\u8fd8\u548c\u7ed3\u6e05\u8d37\u6b3e\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8d37\u6b3e\u5b89\u5168\u72b6\u6001\",\"col\":4}}]",
+ "creation": "2020-03-12 16:35:55.299820",
+ "developer_mode_only": 0,
+ "disable_user_customization": 0,
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "extends": "",
+ "extends_another_page": 0,
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "loan",
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 0,
+ "label": "Loans",
+ "links": [
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Loan Type",
+   "link_count": 0,
+   "link_to": "Loan Type",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Loan Application",
+   "link_count": 0,
+   "link_to": "Loan Application",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Loan",
+   "link_count": 0,
+   "link_to": "Loan",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Process Loan Security Shortfall",
+   "link_count": 0,
+   "link_to": "Process Loan Security Shortfall",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Process Loan Interest Accrual",
+   "link_count": 0,
+   "link_to": "Process Loan Interest Accrual",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Loan Disbursement",
+   "link_count": 0,
+   "link_to": "Loan Disbursement",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Loan Repayment",
+   "link_count": 0,
+   "link_to": "Loan Repayment",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Loan Write Off",
+   "link_count": 0,
+   "link_to": "Loan Write Off",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Loan Interest Accrual",
+   "link_count": 0,
+   "link_to": "Loan Interest Accrual",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Loan Security Type",
+   "link_count": 0,
+   "link_to": "Loan Security Type",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Loan Security Price",
+   "link_count": 0,
+   "link_to": "Loan Security Price",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Loan Security",
+   "link_count": 0,
+   "link_to": "Loan Security",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Loan Security Pledge",
+   "link_count": 0,
+   "link_to": "Loan Security Pledge",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Loan Security Unpledge",
+   "link_count": 0,
+   "link_to": "Loan Security Unpledge",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Loan Security Shortfall",
+   "link_count": 0,
+   "link_to": "Loan Security Shortfall",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Loan Repayment and Closure",
+   "link_count": 0,
+   "link_to": "Loan Repayment and Closure",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Loan Security Status",
+   "link_count": 0,
+   "link_to": "Loan Security Status",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2021-09-02 10:30:06.147387",
+ "modified_by": "Administrator",
+ "module": "Loan Management",
+ "name": "Loans",
+ "onboarding": "",
+ "owner": "Administrator",
+ "parent_page": "",
+ "pin_to_bottom": 0,
+ "pin_to_top": 0,
+ "public": 1,
+ "restrict_to_domain": "",
+ "roles": [],
+ "sequence_id": 16,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8d37\u6b3e\u7c7b\u578b",
+   "link_to": "Loan Type",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8d37\u6b3e\u7533\u8bf7",
+   "link_to": "Loan Application",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8d37\u6b3e",
+   "link_to": "Loan",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u6d41\u7a0b\u8d37\u6b3e\u5b89\u5168\u6f0f\u6d1e",
+   "link_to": "Process Loan Security Shortfall",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u6d41\u7a0b\u8d37\u6b3e\u5229\u606f\u8ba1\u63d0",
+   "link_to": "Process Loan Interest Accrual",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8d37\u6b3e\u652f\u51fa",
+   "link_to": "Loan Disbursement",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u507f\u8fd8\u8d37\u6b3e",
+   "link_to": "Loan Repayment",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8d37\u6b3e\u6ce8\u9500",
+   "link_to": "Loan Write Off",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8d37\u6b3e\u5229\u606f\u8ba1\u63d0",
+   "link_to": "Loan Interest Accrual",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8d37\u6b3e\u62c5\u4fdd\u4ef7",
+   "link_to": "Loan Security Price",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8d37\u6b3e\u62c5\u4fdd",
+   "link_to": "Loan Security",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8d37\u6b3e\u62b5\u62bc",
+   "link_to": "Loan Security Pledge",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8d37\u6b3e\u62c5\u4fdd\u89e3\u9664\u62b5\u62bc",
+   "link_to": "Loan Security Unpledge",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8d37\u6b3e\u5b89\u5168\u7f3a\u53e3",
+   "link_to": "Loan Security Shortfall",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u507f\u8fd8\u548c\u7ed3\u6e05\u8d37\u6b3e",
+   "link_to": "Loan Repayment and Closure",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8d37\u6b3e\u5b89\u5168\u72b6\u6001",
+   "link_to": "Loan Security Status",
+   "type": "Report"
+  }
+ ],
+ "title": "Loans"
+}

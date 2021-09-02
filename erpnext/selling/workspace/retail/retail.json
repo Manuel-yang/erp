@@ -1,7 +1,7 @@
 {
  "category": "",
  "charts": [],
- "content": "[{\"type\": \"header\", \"data\": {\"text\": \"Your Shortcuts\", \"level\": 4, \"col\": 12}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Point Of Sale\", \"col\": 4}}, {\"type\": \"spacer\", \"data\": {\"col\": 12}}, {\"type\": \"header\", \"data\": {\"text\": \"Reports & Masters\", \"level\": 4, \"col\": 12}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Settings & Configurations\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Loyalty Program\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Opening & Closing\", \"col\": 4}}]",
+ "content": "[{\"type\":\"header\",\"data\":{\"text\":\"\u8bbe\u7f6e&amp;\u914d\u7f6e\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u9500\u552e\u7ec8\u7aef\u914d\u7f6e\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u9500\u552e\u7ec8\u7aef\u8bbe\u7f6e\",\"col\":4}},{\"type\":\"header\",\"data\":{\"text\":\"\u5fe0\u5b9e\u8ba1\u5212\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5fe0\u5b9e\u8ba1\u5212\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5fe0\u5b9e\u5ea6\u79ef\u5206\",\"col\":4}},{\"type\":\"header\",\"data\":{\"text\":\"\u5f00&amp;\u95ed\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"POS\u5f00\u542f\u6761\u76ee\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"POS\u5173\u95ed\u6761\u76ee\",\"col\":4}}]",
  "creation": "2020-03-02 17:18:32.505616",
  "developer_mode_only": 0,
  "disable_user_customization": 0,
@@ -17,14 +17,6 @@
  "is_standard": 0,
  "label": "Retail",
  "links": [
-  {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Settings & Configurations",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
-  },
   {
    "dependencies": "",
    "hidden": 0,
@@ -46,14 +38,6 @@
    "link_type": "DocType",
    "onboard": 0,
    "type": "Link"
-  },
-  {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Loyalty Program",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
   },
   {
    "dependencies": "",
@@ -78,14 +62,6 @@
    "type": "Link"
   },
   {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Opening & Closing",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
-  },
-  {
    "dependencies": "",
    "hidden": 0,
    "is_query_report": 0,
@@ -108,7 +84,7 @@
    "type": "Link"
   }
  ],
- "modified": "2021-08-05 12:16:01.840988",
+ "modified": "2021-09-02 11:15:47.689302",
  "modified_by": "Administrator",
  "module": "Selling",
  "name": "Retail",
@@ -123,10 +99,46 @@
  "sequence_id": 22,
  "shortcuts": [
   {
-   "doc_view": "",
-   "label": "Point Of Sale",
-   "link_to": "point-of-sale",
-   "type": "Page"
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u9500\u552e\u7ec8\u7aef\u914d\u7f6e",
+   "link_to": "POS Profile",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u9500\u552e\u7ec8\u7aef\u8bbe\u7f6e",
+   "link_to": "POS Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5fe0\u5b9e\u8ba1\u5212",
+   "link_to": "Loyalty Program",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5fe0\u5b9e\u5ea6\u79ef\u5206",
+   "link_to": "Loyalty Point Entry",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "POS\u5f00\u542f\u6761\u76ee",
+   "link_to": "POS Opening Entry",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "POS\u5173\u95ed\u6761\u76ee",
+   "link_to": "POS Closing Entry",
+   "type": "DocType"
   }
  ],
  "title": "Retail"

@@ -3,10 +3,10 @@
  "charts": [
   {
    "chart_name": "Outgoing Salary",
-   "label": "Outgoing Salary"
+   "label": "\u652f\u51fa\u85aa\u6c34"
   }
  ],
- "content": "[{\"type\": \"onboarding\", \"data\": {\"onboarding_name\":\"Payroll\", \"col\": 12}}, {\"type\": \"chart\", \"data\": {\"chart_name\": \"Outgoing Salary\", \"col\": 12}}, {\"type\": \"spacer\", \"data\": {\"col\": 12}}, {\"type\": \"header\", \"data\": {\"text\": \"Your Shortcuts\", \"level\": 4, \"col\": 12}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Salary Structure\", \"col\": 4}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Payroll Entry\", \"col\": 4}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Salary Slip\", \"col\": 4}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Income Tax Slab\", \"col\": 4}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Salary Register\", \"col\": 4}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Dashboard\", \"col\": 4}}, {\"type\": \"spacer\", \"data\": {\"col\": 12}}, {\"type\": \"header\", \"data\": {\"text\": \"Reports & Masters\", \"level\": 4, \"col\": 12}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Payroll\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Taxation\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Compensations\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Reports\", \"col\": 4}}]",
+ "content": "[{\"type\":\"chart\",\"data\":{\"chart_name\":\"\u652f\u51fa\u85aa\u6c34\",\"col\":12}},{\"type\":\"header\",\"data\":{\"text\":\"\u5de5\u8d44\u540d\u5355\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u85aa\u8d44\u6784\u6210\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u85aa\u8d44\u7ed3\u6784\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u85aa\u8d44\u7ed3\u6784\u5206\u914d\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5de5\u8d44\u8ba1\u7b97\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5de5\u8d44\u5355\",\"col\":4}},{\"type\":\"header\",\"data\":{\"text\":\"\u5f81\u7a0e\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5de5\u8d44\u671f\u95f4\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u6240\u5f97\u7a0e\u8868\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5458\u5de5\u5176\u4ed6\u6536\u5165\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5458\u5de5\u514d\u7a0e\u58f0\u660e\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5458\u5de5\u514d\u7a0e\u8bc1\u660e\u63d0\u4ea4\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5458\u5de5\u514d\u7a0e\u7c7b\u522b\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5458\u5de5\u514d\u7a0e\u5b50\u7c7b\u522b\",\"col\":4}},{\"type\":\"header\",\"data\":{\"text\":\"\u8865\u507f\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u989d\u5916\u85aa\u6c34\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u6301\u7eed\u670d\u52a1\u798f\u5229\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5458\u5de5\u6fc0\u52b1\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5458\u5de5\u798f\u5229\u7533\u8bf7\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5458\u5de5\u798f\u5229\u7533\u62a5\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5de5\u8d44\u53f0\u8d26\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u57fa\u4e8e\u4ed8\u6b3e\u65b9\u5f0f\u7684\u5de5\u8d44\u652f\u4ed8\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u901a\u8fc7ECS\u652f\u4ed8\u5de5\u8d44\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u6240\u5f97\u7a0e\u51cf\u514d\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u4e13\u4e1a\u7a0e\u52a1\u6263\u51cf\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u516c\u79ef\u91d1\u6263\u51cf\u989d\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u94f6\u884c\u6c47\u6b3e\",\"col\":4}},{\"type\":\"spacer\",\"data\":{\"col\":12}},{\"type\":\"card\",\"data\":{\"card_name\":\"Taxation\",\"col\":4}},{\"type\":\"card\",\"data\":{\"card_name\":\"Compensations\",\"col\":4}}]",
  "creation": "2020-05-27 19:54:23.405607",
  "developer_mode_only": 0,
  "disable_user_customization": 0,
@@ -22,14 +22,6 @@
  "is_standard": 0,
  "label": "Payroll",
  "links": [
-  {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Payroll",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
-  },
   {
    "dependencies": "",
    "hidden": 0,
@@ -234,14 +226,6 @@
    "type": "Link"
   },
   {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Reports",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
-  },
-  {
    "dependencies": "Salary Slip",
    "hidden": 0,
    "is_query_report": 1,
@@ -319,7 +303,7 @@
    "type": "Link"
   }
  ],
- "modified": "2021-08-05 12:16:01.335324",
+ "modified": "2021-09-02 11:06:10.426552",
  "modified_by": "Administrator",
  "module": "Payroll",
  "name": "Payroll",
@@ -334,37 +318,172 @@
  "sequence_id": 19,
  "shortcuts": [
   {
-   "label": "Salary Structure",
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u85aa\u8d44\u6784\u6210",
+   "link_to": "Salary Component",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5458\u5de5\u514d\u7a0e\u58f0\u660e",
+   "link_to": "Employee Tax Exemption Declaration",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u85aa\u8d44\u7ed3\u6784",
    "link_to": "Salary Structure",
    "type": "DocType"
   },
   {
-   "label": "Payroll Entry",
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5458\u5de5\u514d\u7a0e\u8bc1\u660e\u63d0\u4ea4",
+   "link_to": "Employee Tax Exemption Proof Submission",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5458\u5de5\u514d\u7a0e\u7c7b\u522b",
+   "link_to": "Employee Tax Exemption Category",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u85aa\u8d44\u7ed3\u6784\u5206\u914d",
+   "link_to": "Salary Structure Assignment",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5de5\u8d44\u8ba1\u7b97",
    "link_to": "Payroll Entry",
    "type": "DocType"
   },
   {
-   "color": "",
-   "format": "{} Pending",
-   "label": "Salary Slip",
-   "link_to": "Salary Slip",
-   "stats_filter": "{\"status\": \"Draft\"}",
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5458\u5de5\u514d\u7a0e\u5b50\u7c7b\u522b",
+   "link_to": "Employee Tax Exemption Sub Category",
    "type": "DocType"
   },
   {
-   "label": "Income Tax Slab",
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5de5\u8d44\u5355",
+   "link_to": "Salary Slip",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u989d\u5916\u85aa\u6c34",
+   "link_to": "Additional Salary",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u6301\u7eed\u670d\u52a1\u798f\u5229",
+   "link_to": "Retention Bonus",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5de5\u8d44\u671f\u95f4",
+   "link_to": "Payroll Period",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5458\u5de5\u6fc0\u52b1",
+   "link_to": "Employee Incentive",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u6240\u5f97\u7a0e\u8868",
    "link_to": "Income Tax Slab",
    "type": "DocType"
   },
   {
-   "label": "Salary Register",
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5458\u5de5\u798f\u5229\u7533\u8bf7",
+   "link_to": "Employee Benefit Application",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5458\u5de5\u5176\u4ed6\u6536\u5165",
+   "link_to": "Employee Other Income",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5458\u5de5\u798f\u5229\u7533\u62a5",
+   "link_to": "Employee Benefit Claim",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5de5\u8d44\u53f0\u8d26",
    "link_to": "Salary Register",
    "type": "Report"
   },
   {
-   "label": "Dashboard",
-   "link_to": "Payroll",
-   "type": "Dashboard"
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u57fa\u4e8e\u4ed8\u6b3e\u65b9\u5f0f\u7684\u5de5\u8d44\u652f\u4ed8",
+   "link_to": "Salary Payments Based On Payment Mode",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u901a\u8fc7ECS\u652f\u4ed8\u5de5\u8d44",
+   "link_to": "Salary Payments via ECS",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u6240\u5f97\u7a0e\u51cf\u514d",
+   "link_to": "Income Tax Deductions",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u4e13\u4e1a\u7a0e\u52a1\u6263\u51cf",
+   "link_to": "Professional Tax Deductions",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u516c\u79ef\u91d1\u6263\u51cf\u989d",
+   "link_to": "Provident Fund Deductions",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u94f6\u884c\u6c47\u6b3e",
+   "link_to": "Bank Remittance",
+   "type": "Report"
   }
  ],
  "title": "Payroll"

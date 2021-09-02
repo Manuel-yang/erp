@@ -1,7 +1,7 @@
 {
  "category": "",
  "charts": [],
- "content": "[{\"type\": \"header\", \"data\": {\"text\": \"Your Shortcuts\", \"level\": 4, \"col\": 12}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Quality Goal\", \"col\": 4}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Quality Procedure\", \"col\": 4}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Quality Inspection\", \"col\": 4}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Quality Review\", \"col\": 4}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Quality Action\", \"col\": 4}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Non Conformance\", \"col\": 4}}, {\"type\": \"spacer\", \"data\": {\"col\": 12}}, {\"type\": \"header\", \"data\": {\"text\": \"Reports & Masters\", \"level\": 4, \"col\": 12}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Goal and Procedure\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Feedback\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Meeting\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Review and Action\", \"col\": 4}}]",
+ "content": "[{\"type\":\"header\",\"data\":{\"text\":\"\u76ee\u6807\u548c\u7a0b\u5e8f\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8d28\u91cf\u76ee\u6807\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8d28\u91cf\u7a0b\u5e8f\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u7a0b\u5e8f\u6811\",\"col\":4}},{\"type\":\"header\",\"data\":{\"text\":\"\u53cd\u9988\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8d28\u91cf\u53cd\u9988\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8d28\u91cf\u53cd\u9988\u6a21\u677f\",\"col\":4}},{\"type\":\"header\",\"data\":{\"text\":\"\u4f1a\u8bae\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8d28\u91cf\u4f1a\u8bae\",\"col\":4}},{\"type\":\"header\",\"data\":{\"text\":\"\u5ba1\u67e5\u548c\u884c\u52a8\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u4e0d\u5408\u683c\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8d28\u91cf\u5ba1\u67e5\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8d28\u91cf\u884c\u52a8\",\"col\":4}}]",
  "creation": "2020-03-02 15:49:28.632014",
  "developer_mode_only": 0,
  "disable_user_customization": 0,
@@ -17,14 +17,6 @@
  "is_standard": 0,
  "label": "Quality",
  "links": [
-  {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Goal and Procedure",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
-  },
   {
    "dependencies": "",
    "hidden": 0,
@@ -59,14 +51,6 @@
    "type": "Link"
   },
   {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Feedback",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
-  },
-  {
    "dependencies": "",
    "hidden": 0,
    "is_query_report": 0,
@@ -89,14 +73,6 @@
    "type": "Link"
   },
   {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Meeting",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
-  },
-  {
    "dependencies": "",
    "hidden": 0,
    "is_query_report": 0,
@@ -106,14 +82,6 @@
    "link_type": "DocType",
    "onboard": 0,
    "type": "Link"
-  },
-  {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Review and Action",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
   },
   {
    "dependencies": "",
@@ -149,7 +117,7 @@
    "type": "Link"
   }
  ],
- "modified": "2021-08-05 12:16:01.699912",
+ "modified": "2021-09-02 11:11:33.506854",
  "modified_by": "Administrator",
  "module": "Quality Management",
  "name": "Quality",
@@ -165,48 +133,65 @@
  "shortcuts": [
   {
    "color": "Grey",
-   "label": "Quality Goal",
+   "doc_view": "List",
+   "label": "\u8d28\u91cf\u76ee\u6807",
    "link_to": "Quality Goal",
    "type": "DocType"
   },
   {
    "color": "Grey",
-   "doc_view": "Tree",
-   "label": "Quality Procedure",
+   "doc_view": "List",
+   "label": "\u8d28\u91cf\u7a0b\u5e8f",
    "link_to": "Quality Procedure",
    "type": "DocType"
   },
   {
    "color": "Grey",
-   "label": "Quality Inspection",
-   "link_to": "Quality Inspection",
+   "doc_view": "List",
+   "label": "\u7a0b\u5e8f\u6811",
+   "link_to": "Quality Procedure",
    "type": "DocType"
   },
   {
    "color": "Grey",
-   "doc_view": "",
-   "format": "{} Open",
-   "label": "Quality Review",
-   "link_to": "Quality Review",
-   "stats_filter": "{\"status\": \"Open\"}",
+   "doc_view": "List",
+   "label": "\u8d28\u91cf\u53cd\u9988",
+   "link_to": "Quality Feedback",
    "type": "DocType"
   },
   {
    "color": "Grey",
-   "doc_view": "",
-   "format": "{} Open",
-   "label": "Quality Action",
-   "link_to": "Quality Action",
-   "stats_filter": "{\"status\": \"Open\"}",
+   "doc_view": "List",
+   "label": "\u8d28\u91cf\u53cd\u9988\u6a21\u677f",
+   "link_to": "Quality Feedback Template",
    "type": "DocType"
   },
   {
    "color": "Grey",
-   "doc_view": "",
-   "format": "{} Open",
-   "label": "Non Conformance",
+   "doc_view": "List",
+   "label": "\u8d28\u91cf\u4f1a\u8bae",
+   "link_to": "Quality Meeting",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u4e0d\u5408\u683c",
    "link_to": "Non Conformance",
-   "stats_filter": "{\"status\": \"Open\"}",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8d28\u91cf\u5ba1\u67e5",
+   "link_to": "Quality Review",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8d28\u91cf\u884c\u52a8",
+   "link_to": "Quality Action",
    "type": "DocType"
   }
  ],

@@ -2,10 +2,11 @@
  "category": "",
  "charts": [
   {
-   "chart_name": "Produced Quantity"
+   "chart_name": "Produced Quantity",
+   "label": "\u751f\u4ea7\u4ea7\u54c1\u6570\u91cf"
   }
  ],
- "content": "[{\"type\": \"onboarding\", \"data\": {\"onboarding_name\":\"Manufacturing\", \"col\": 12}}, {\"type\": \"chart\", \"data\": {\"chart_name\": null, \"col\": 12}}, {\"type\": \"spacer\", \"data\": {\"col\": 12}}, {\"type\": \"header\", \"data\": {\"text\": \"Your Shortcuts\", \"level\": 4, \"col\": 12}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Item\", \"col\": 4}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"BOM\", \"col\": 4}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Work Order\", \"col\": 4}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Production Plan\", \"col\": 4}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Forecasting\", \"col\": 4}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Work Order Summary\", \"col\": 4}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"BOM Stock Report\", \"col\": 4}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Production Planning Report\", \"col\": 4}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Dashboard\", \"col\": 4}}, {\"type\": \"spacer\", \"data\": {\"col\": 12}}, {\"type\": \"header\", \"data\": {\"text\": \"Reports & Masters\", \"level\": 4, \"col\": 12}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Production\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Bill of Materials\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Reports\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Tools\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Settings\", \"col\": 4}}]",
+ "content": "[{\"type\":\"chart\",\"data\":{\"chart_name\":\"\u751f\u4ea7\u4ea7\u54c1\u6570\u91cf\",\"col\":12}},{\"type\":\"header\",\"data\":{\"text\":\"Your Shortcuts\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Forecasting\",\"col\":4}},{\"type\":\"spacer\",\"data\":{\"col\":12}},{\"type\":\"header\",\"data\":{\"text\":\"Reports &amp; Masters\",\"level\":4,\"col\":12}},{\"type\":\"header\",\"data\":{\"text\":\"\u751f\u4ea7\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5de5\u5355\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u751f\u4ea7\u8ba1\u5212\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u80a1\u7968\u5206\u5f55\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5de5\u4f5c\u5361\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u505c\u673a\u65f6\u95f4\u8f93\u5165\",\"col\":4}},{\"type\":\"header\",\"data\":{\"text\":\"\u7269\u6599\u6e05\u5355\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u7269\u6599\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u7269\u6599\u6e05\u5355\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5de5\u4f5c\u7ad9\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u64cd\u4f5c\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8def\u7531\",\"col\":4}},{\"type\":\"header\",\"data\":{\"text\":\"\u62a5\u544a\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u751f\u4ea7\u8ba1\u5212\u62a5\u544a\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5de5\u5355\u6458\u8981\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8d28\u91cf\u68c0\u9a8c\u603b\u7ed3\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u505c\u673a\u65f6\u95f4\u5206\u6790\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5de5\u4f5c\u5361\u6458\u8981\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u7269\u6599\u6e05\u5355\u641c\u7d22\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u7269\u6599\u6e05\u5355\u5e93\u5b58\u62a5\u8868\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u751f\u4ea7\u5206\u6790\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"BOM\u64cd\u4f5c\u65f6\u95f4\",\"col\":4}},{\"type\":\"header\",\"data\":{\"text\":\"\u5de5\u5177\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"BOM\u66f4\u65b0\u5de5\u5177\",\"col\":4}},{\"type\":\"header\",\"data\":{\"text\":\"\u8bbe\u7f6e\",\"level\":2,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u751f\u4ea7\u8bbe\u7f6e\",\"col\":4}}]",
  "creation": "2020-03-02 17:11:37.032604",
  "developer_mode_only": 0,
  "disable_user_customization": 0,
@@ -21,14 +22,6 @@
  "is_standard": 0,
  "label": "Manufacturing",
  "links": [
-  {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Production",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
-  },
   {
    "dependencies": "Item, BOM",
    "hidden": 0,
@@ -85,14 +78,6 @@
    "type": "Link"
   },
   {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Bill of Materials",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
-  },
-  {
    "dependencies": "",
    "hidden": 0,
    "is_query_report": 0,
@@ -146,14 +131,6 @@
    "link_type": "DocType",
    "onboard": 0,
    "type": "Link"
-  },
-  {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Reports",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
   },
   {
    "dependencies": "Work Order",
@@ -255,14 +232,6 @@
    "type": "Link"
   },
   {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Tools",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
-  },
-  {
    "dependencies": "",
    "hidden": 0,
    "is_query_report": 0,
@@ -285,14 +254,6 @@
    "type": "Link"
   },
   {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Settings",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
-  },
-  {
    "dependencies": "",
    "hidden": 0,
    "is_query_report": 0,
@@ -304,7 +265,7 @@
    "type": "Link"
   }
  ],
- "modified": "2021-08-05 12:16:00.825741",
+ "modified": "2021-09-02 10:40:42.507148",
  "modified_by": "Administrator",
  "module": "Manufacturing",
  "name": "Manufacturing",
@@ -319,39 +280,31 @@
  "sequence_id": 17,
  "shortcuts": [
   {
-   "color": "Green",
-   "format": "{} Active",
-   "label": "Item",
-   "link_to": "Item",
-   "restrict_to_domain": "Manufacturing",
-   "stats_filter": "{\n    \"disabled\": 0\n}",
-   "type": "DocType"
-  },
-  {
-   "color": "Green",
-   "format": "{} Active",
-   "label": "BOM",
-   "link_to": "BOM",
-   "restrict_to_domain": "Manufacturing",
-   "stats_filter": "{\n    \"is_active\": 1\n}",
-   "type": "DocType"
-  },
-  {
-   "color": "Yellow",
-   "format": "{} Open",
-   "label": "Work Order",
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5de5\u5355",
    "link_to": "Work Order",
-   "restrict_to_domain": "Manufacturing",
-   "stats_filter": "{ \n    \"status\": [\"in\", \n        [\"Draft\", \"Not Started\", \"In Process\"]\n    ]\n}",
    "type": "DocType"
   },
   {
-   "color": "Yellow",
-   "format": "{} Open",
-   "label": "Production Plan",
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u751f\u4ea7\u8ba1\u5212",
    "link_to": "Production Plan",
-   "restrict_to_domain": "Manufacturing",
-   "stats_filter": "{ \n    \"status\": [\"not in\", [\"Completed\"]]\n}",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u80a1\u7968\u5206\u5f55",
+   "link_to": "Stock Entry",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5de5\u4f5c\u5361",
+   "link_to": "Job Card",
    "type": "DocType"
   },
   {
@@ -360,26 +313,123 @@
    "type": "Report"
   },
   {
-   "label": "Work Order Summary",
-   "link_to": "Work Order Summary",
-   "restrict_to_domain": "Manufacturing",
-   "type": "Report"
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u505c\u673a\u65f6\u95f4\u8f93\u5165",
+   "link_to": "Downtime Entry",
+   "type": "DocType"
   },
   {
-   "label": "BOM Stock Report",
-   "link_to": "BOM Stock Report",
-   "type": "Report"
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u7269\u6599",
+   "link_to": "Item",
+   "type": "DocType"
   },
   {
-   "label": "Production Planning Report",
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u7269\u6599\u6e05\u5355",
+   "link_to": "BOM",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5de5\u4f5c\u7ad9",
+   "link_to": "Workstation",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u64cd\u4f5c",
+   "link_to": "Operation",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8def\u7531",
+   "link_to": "Routing",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u751f\u4ea7\u8ba1\u5212\u62a5\u544a",
    "link_to": "Production Planning Report",
    "type": "Report"
   },
   {
-   "label": "Dashboard",
-   "link_to": "Manufacturing",
-   "restrict_to_domain": "Manufacturing",
-   "type": "Dashboard"
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5de5\u5355\u6458\u8981",
+   "link_to": "Work Order Summary",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8d28\u91cf\u68c0\u9a8c\u603b\u7ed3",
+   "link_to": "Quality Inspection Summary",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u505c\u673a\u65f6\u95f4\u5206\u6790",
+   "link_to": "Downtime Analysis",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5de5\u4f5c\u5361\u6458\u8981",
+   "link_to": "Job Card Summary",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u7269\u6599\u6e05\u5355\u641c\u7d22",
+   "link_to": "BOM Search",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u7269\u6599\u6e05\u5355\u5e93\u5b58\u62a5\u8868",
+   "link_to": "BOM Stock Report",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u751f\u4ea7\u5206\u6790",
+   "link_to": "Production Analytics",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "BOM\u64cd\u4f5c\u65f6\u95f4",
+   "link_to": "BOM Operations Time",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "BOM\u66f4\u65b0\u5de5\u5177",
+   "link_to": "BOM Update Tool",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u751f\u4ea7\u8bbe\u7f6e",
+   "link_to": "Manufacturing Settings",
+   "type": "DocType"
   }
  ],
  "title": "Manufacturing"

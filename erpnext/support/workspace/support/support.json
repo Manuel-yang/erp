@@ -1,7 +1,7 @@
 {
  "category": "",
  "charts": [],
- "content": "[{\"type\": \"header\", \"data\": {\"text\": \"Your Shortcuts\", \"level\": 4, \"col\": 12}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Issue\", \"col\": 4}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Maintenance Visit\", \"col\": 4}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Service Level Agreement\", \"col\": 4}}, {\"type\": \"spacer\", \"data\": {\"col\": 12}}, {\"type\": \"header\", \"data\": {\"text\": \"Reports & Masters\", \"level\": 4, \"col\": 12}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Issues\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Maintenance\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Service Level Agreement\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Warranty\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Settings\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Reports\", \"col\": 4}}]",
+ "content": "[{\"type\":\"header\",\"data\":{\"text\":\"\u53d1\u884c\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u53d1\u884c\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u53d1\u884c\u7c7b\u578b\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u53d1\u884c\u4f18\u5148\",\"col\":4}},{\"type\":\"header\",\"data\":{\"text\":\"\u7ef4\u62a4\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u7ef4\u62a4\u8ba1\u5212\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u7ef4\u62a4\u8bbf\u95ee\",\"col\":4}},{\"type\":\"header\",\"data\":{\"text\":\"\u670d\u52a1\u6c34\u5e73\u534f\u8bae\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u670d\u52a1\u6c34\u5e73\u534f\u8bae\",\"col\":4}},{\"type\":\"header\",\"data\":{\"text\":\"\u62c5\u4fdd\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u4fdd\u4fee\u7533\u8bf7\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5e8f\u5217\u53f7\",\"col\":4}}]",
  "creation": "2020-03-02 15:48:23.224699",
  "developer_mode_only": 0,
  "disable_user_customization": 0,
@@ -17,14 +17,6 @@
  "is_standard": 0,
  "label": "Support",
  "links": [
-  {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Issues",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
-  },
   {
    "dependencies": "",
    "hidden": 0,
@@ -59,14 +51,6 @@
    "type": "Link"
   },
   {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Maintenance",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
-  },
-  {
    "dependencies": "",
    "hidden": 0,
    "is_query_report": 0,
@@ -89,14 +73,6 @@
    "type": "Link"
   },
   {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Service Level Agreement",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
-  },
-  {
    "dependencies": "",
    "hidden": 0,
    "is_query_report": 0,
@@ -106,14 +82,6 @@
    "link_type": "DocType",
    "onboard": 0,
    "type": "Link"
-  },
-  {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Warranty",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
   },
   {
    "dependencies": "",
@@ -138,14 +106,6 @@
    "type": "Link"
   },
   {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Settings",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
-  },
-  {
    "dependencies": "",
    "hidden": 0,
    "is_query_report": 0,
@@ -155,14 +115,6 @@
    "link_type": "DocType",
    "onboard": 0,
    "type": "Link"
-  },
-  {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Reports",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
   },
   {
    "dependencies": "Issue",
@@ -176,7 +128,7 @@
    "type": "Link"
   }
  ],
- "modified": "2021-08-05 12:16:02.699923",
+ "modified": "2021-09-02 12:13:38.139539",
  "modified_by": "Administrator",
  "module": "Support",
  "name": "Support",
@@ -191,21 +143,59 @@
  "sequence_id": 25,
  "shortcuts": [
   {
-   "color": "Yellow",
-   "format": "{} Assigned",
-   "label": "Issue",
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u53d1\u884c",
    "link_to": "Issue",
-   "stats_filter": "{\n    \"_assign\": [\"like\", '%' + frappe.session.user + '%'],\n    \"status\": \"Open\"\n}",
    "type": "DocType"
   },
   {
-   "label": "Maintenance Visit",
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u53d1\u884c\u7c7b\u578b",
+   "link_to": "Issue Type",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u53d1\u884c\u4f18\u5148",
+   "link_to": "Issue Priority",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u7ef4\u62a4\u8ba1\u5212",
+   "link_to": "Maintenance Schedule",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u7ef4\u62a4\u8bbf\u95ee",
    "link_to": "Maintenance Visit",
    "type": "DocType"
   },
   {
-   "label": "Service Level Agreement",
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u670d\u52a1\u6c34\u5e73\u534f\u8bae",
    "link_to": "Service Level Agreement",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u4fdd\u4fee\u7533\u8bf7",
+   "link_to": "Warranty Claim",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5e8f\u5217\u53f7",
+   "link_to": "Serial No",
    "type": "DocType"
   }
  ],

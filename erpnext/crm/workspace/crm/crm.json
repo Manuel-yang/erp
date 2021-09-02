@@ -2,10 +2,11 @@
  "category": "",
  "charts": [
   {
-   "chart_name": "Territory Wise Sales"
+   "chart_name": "Territory Wise Sales",
+   "label": "\u533a\u57df\u9500\u552e"
   }
  ],
- "content": "[{\"type\": \"onboarding\", \"data\": {\"onboarding_name\":\"CRM\", \"col\": 12}}, {\"type\": \"chart\", \"data\": {\"chart_name\": null, \"col\": 12}}, {\"type\": \"spacer\", \"data\": {\"col\": 12}}, {\"type\": \"header\", \"data\": {\"text\": \"Your Shortcuts\", \"level\": 4, \"col\": 12}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Lead\", \"col\": 4}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Opportunity\", \"col\": 4}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Customer\", \"col\": 4}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Sales Analytics\", \"col\": 4}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Dashboard\", \"col\": 4}}, {\"type\": \"spacer\", \"data\": {\"col\": 12}}, {\"type\": \"header\", \"data\": {\"text\": \"Reports & Masters\", \"level\": 4, \"col\": 12}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Sales Pipeline\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Reports\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Maintenance\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Campaign\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Settings\", \"col\": 4}}]",
+ "content": "[{\"type\":\"chart\",\"data\":{\"chart_name\":\"\u533a\u57df\u9500\u552e\",\"col\":12}},{\"type\":\"onboarding\",\"data\":{\"onboarding_name\":\"CRM\",\"col\":12}},{\"type\":\"spacer\",\"data\":{\"col\":12}},{\"type\":\"header\",\"data\":{\"text\":\"Your Shortcuts\",\"level\":4,\"col\":12}},{\"type\":\"spacer\",\"data\":{\"col\":12}},{\"type\":\"header\",\"data\":{\"text\":\"Reports &amp; Masters\",\"level\":4,\"col\":12}},{\"type\":\"header\",\"data\":{\"text\":\"\u9500\u552e\u6e20\u9053\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5546\u673a\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u673a\u4f1a\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5ba2\u6237\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8054\u7cfb\u4eba\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u901a\u8baf\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u7ebf\u7d22\u6765\u6e90\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u901a\u8baf\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u9884\u7ea6\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5408\u540c\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5c55\u671b\uff08\u672a\u6210\u719f\uff09\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u7535\u5b50\u90ae\u4ef6\u7ec4\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u673a\u4f1a\u7b2c\u4e00\u65f6\u95f4\u548c\u54cd\u5e94\u65f6\u95f4\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u9500\u552e\u6f0f\u6597\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5546\u673a\u4fe1\u606f\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u7ebf\u7d22\u8d1f\u8d23\u4eba\u6548\u7387\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u975e\u6d3b\u8dc3\u7528\u6237\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u77ed\u4fe1\u8bbe\u7f6e\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u77ed\u4fe1\u65e5\u5fd7\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u4fdd\u4fee\u7533\u8bf7\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u7ef4\u62a4\u8bbf\u95ee\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u4fc3\u9500\u6d3b\u52a8\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u7ef4\u62a4\u8ba1\u5212\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u4fc3\u9500\u6d3b\u52a8\u6548\u7387\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5ba2\u6237\u7fa4\u7ec4\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u7535\u90ae\u5e7f\u544a\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u793e\u4ea4\u5a92\u4f53\u5e16\u5b50\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u533a\u57df\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u9500\u552e\u4eba\u5458\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u77ed\u4fe1\u4e2d\u5fc3\",\"col\":4}}]",
  "creation": "2020-01-23 14:48:30.183272",
  "developer_mode_only": 0,
  "disable_user_customization": 0,
@@ -21,14 +22,6 @@
  "is_standard": 0,
  "label": "CRM",
  "links": [
-  {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Sales Pipeline",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
-  },
   {
    "dependencies": "",
    "hidden": 0,
@@ -129,14 +122,6 @@
    "type": "Link"
   },
   {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Reports",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
-  },
-  {
    "dependencies": "Lead",
    "hidden": 0,
    "is_query_report": 1,
@@ -214,14 +199,6 @@
    "type": "Link"
   },
   {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Maintenance",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
-  },
-  {
    "dependencies": "",
    "hidden": 0,
    "is_query_report": 0,
@@ -255,14 +232,6 @@
    "type": "Link"
   },
   {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Campaign",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
-  },
-  {
    "dependencies": "",
    "hidden": 0,
    "is_query_report": 0,
@@ -294,14 +263,6 @@
    "link_type": "DocType",
    "onboard": 0,
    "type": "Link"
-  },
-  {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Settings",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
   },
   {
    "dependencies": "",
@@ -403,7 +364,7 @@
    "type": "Link"
   }
  ],
- "modified": "2021-08-05 12:15:56.913091",
+ "modified": "2021-09-02 10:20:12.288876",
  "modified_by": "Administrator",
  "module": "CRM",
  "name": "CRM",
@@ -418,35 +379,200 @@
  "sequence_id": 7,
  "shortcuts": [
   {
-   "color": "Blue",
-   "format": "{} Open",
-   "label": "Lead",
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5546\u673a",
    "link_to": "Lead",
-   "stats_filter": "{\"status\":\"Open\"}",
    "type": "DocType"
   },
   {
-   "color": "Blue",
-   "format": "{} Assigned",
-   "label": "Opportunity",
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5c55\u671b\uff08\u672a\u6210\u719f\uff09",
+   "link_to": "Prospects Engaged But Not Converted",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u673a\u4f1a",
    "link_to": "Opportunity",
-   "stats_filter": "{\"_assign\": [\"like\", '%' + frappe.session.user + '%']}",
    "type": "DocType"
   },
   {
-   "label": "Customer",
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u7535\u5b50\u90ae\u4ef6\u7ec4",
+   "link_to": "Email Group",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u673a\u4f1a\u7b2c\u4e00\u65f6\u95f4\u548c\u54cd\u5e94\u65f6\u95f4",
+   "link_to": "First Response Time for Opportunity",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5ba2\u6237",
    "link_to": "Customer",
    "type": "DocType"
   },
   {
-   "label": "Sales Analytics",
-   "link_to": "Sales Analytics",
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8054\u7cfb\u4eba",
+   "link_to": "Contact",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u9500\u552e\u6f0f\u6597",
+   "link_to": "sales-funnel",
+   "type": "Page"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5546\u673a\u4fe1\u606f",
+   "link_to": "Lead Details",
    "type": "Report"
   },
   {
-   "label": "Dashboard",
-   "link_to": "CRM",
-   "type": "Dashboard"
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u7ebf\u7d22\u6765\u6e90",
+   "link_to": "Lead Source",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u7ebf\u7d22\u8d1f\u8d23\u4eba\u6548\u7387",
+   "link_to": "Lead Owner Efficiency",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u975e\u6d3b\u8dc3\u7528\u6237",
+   "link_to": "Inactive Customers",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u901a\u8baf",
+   "link_to": "Newsletter",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u77ed\u4fe1\u8bbe\u7f6e",
+   "link_to": "SMS Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u9884\u7ea6",
+   "link_to": "Appointment",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u77ed\u4fe1\u65e5\u5fd7",
+   "link_to": "SMS Log",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5408\u540c",
+   "link_to": "Contract",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u4fdd\u4fee\u7533\u8bf7",
+   "link_to": "Warranty Claim",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u7ef4\u62a4\u8bbf\u95ee",
+   "link_to": "Maintenance Visit",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u4fc3\u9500\u6d3b\u52a8",
+   "link_to": "Campaign",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u7ef4\u62a4\u8ba1\u5212",
+   "link_to": "Maintenance Schedule",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u4fc3\u9500\u6d3b\u52a8\u6548\u7387",
+   "link_to": "Campaign Efficiency",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5ba2\u6237\u7fa4\u7ec4",
+   "link_to": "Customer Group",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u7535\u90ae\u5e7f\u544a",
+   "link_to": "Email Campaign",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u793e\u4ea4\u5a92\u4f53\u5e16\u5b50",
+   "link_to": "Social Media Post",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u533a\u57df",
+   "link_to": "Territory",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u9500\u552e\u4eba\u5458",
+   "link_to": "Sales Person",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u77ed\u4fe1\u4e2d\u5fc3",
+   "link_to": "SMS Center",
+   "type": "DocType"
   }
  ],
  "title": "CRM"

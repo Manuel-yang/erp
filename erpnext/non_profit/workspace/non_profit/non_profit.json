@@ -1,7 +1,7 @@
 {
  "category": "",
  "charts": [],
- "content": "[{\"type\": \"header\", \"data\": {\"text\": \"Your Shortcuts\", \"level\": 4, \"col\": 12}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Member\", \"col\": 4}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Non Profit Settings\", \"col\": 4}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Membership\", \"col\": 4}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Chapter\", \"col\": 4}}, {\"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Chapter Member\", \"col\": 4}}, {\"type\": \"spacer\", \"data\": {\"col\": 12}}, {\"type\": \"header\", \"data\": {\"text\": \"Reports & Masters\", \"level\": 4, \"col\": 12}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Loan Management\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Grant Application\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Membership\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Volunteer\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Chapter\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Donation\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Tax Exemption Certification (India)\", \"col\": 4}}]",
+ "content": "[{\"type\":\"header\",\"data\":{\"text\":\"Your Shortcuts\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Non Profit Settings\",\"col\":4}},{\"type\":\"spacer\",\"data\":{\"col\":12}},{\"type\":\"header\",\"data\":{\"text\":\"Reports &amp; Masters\",\"level\":4,\"col\":12}},{\"type\":\"card\",\"data\":{\"card_name\":\"Donation\",\"col\":4}},{\"type\":\"card\",\"data\":{\"card_name\":\"Tax Exemption Certification (India)\",\"col\":4}},{\"type\":\"header\",\"data\":{\"text\":\"\u8d37\u6b3e\u7ba1\u7406\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8d37\u6b3e\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u8d37\u6b3e\u7c7b\u578b\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u7533\u8bf7\u8d37\u6b3e\",\"col\":4}},{\"type\":\"header\",\"data\":{\"text\":\"\u62e8\u6b3e\u7533\u8bf7\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u62e8\u6b3e\u7533\u8bf7\",\"col\":4}},{\"type\":\"header\",\"data\":{\"text\":\"\u6210\u5458\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u6210\u5458\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u4f1a\u5458\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u4f1a\u5458\u79cd\u7c7b\",\"col\":4}},{\"type\":\"header\",\"data\":{\"text\":\"\u5fd7\u613f\u8005\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5fd7\u613f\u8005\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u5fd7\u613f\u8005\u7c7b\u522b\",\"col\":4}},{\"type\":\"header\",\"data\":{\"text\":\"\u7ae0\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u7ae0\",\"col\":4}},{\"type\":\"header\",\"data\":{\"text\":\"\u6350\u8d60\",\"level\":4,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u6350\u8d60\u8005\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u6350\u8d60\u8005\u7c7b\u522b\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u6350\u8d60\",\"col\":4}}]",
  "creation": "2020-03-02 17:23:47.811421",
  "developer_mode_only": 0,
  "disable_user_customization": 0,
@@ -17,14 +17,6 @@
  "is_standard": 0,
  "label": "Non Profit",
  "links": [
-  {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Loan Management",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
-  },
   {
    "dependencies": "",
    "hidden": 0,
@@ -59,14 +51,6 @@
    "type": "Link"
   },
   {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Grant Application",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
-  },
-  {
    "dependencies": "",
    "hidden": 0,
    "is_query_report": 0,
@@ -76,14 +60,6 @@
    "link_type": "DocType",
    "onboard": 0,
    "type": "Link"
-  },
-  {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Membership",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
   },
   {
    "dependencies": "",
@@ -130,14 +106,6 @@
    "type": "Link"
   },
   {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Volunteer",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
-  },
-  {
    "dependencies": "",
    "hidden": 0,
    "is_query_report": 0,
@@ -158,14 +126,6 @@
    "link_type": "DocType",
    "onboard": 0,
    "type": "Link"
-  },
-  {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Chapter",
-   "link_count": 0,
-   "onboard": 0,
-   "type": "Card Break"
   },
   {
    "dependencies": "",
@@ -238,7 +198,7 @@
    "type": "Link"
   }
  ],
- "modified": "2021-08-05 12:16:01.146206",
+ "modified": "2021-09-02 10:56:36.934715",
  "modified_by": "Administrator",
  "module": "Non Profit",
  "name": "Non Profit",
@@ -253,8 +213,38 @@
  "sequence_id": 18,
  "shortcuts": [
   {
-   "label": "Member",
-   "link_to": "Member",
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5fd7\u613f\u8005",
+   "link_to": "Volunteer",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8d37\u6b3e",
+   "link_to": "Loan",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u6350\u8d60\u8005\u7c7b\u522b",
+   "link_to": "Donor Type",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u6350\u8d60",
+   "link_to": "Donation",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u5fd7\u613f\u8005\u7c7b\u522b",
+   "link_to": "Volunteer Type",
    "type": "DocType"
   },
   {
@@ -263,18 +253,59 @@
    "type": "DocType"
   },
   {
-   "label": "Membership",
-   "link_to": "Membership",
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u8d37\u6b3e\u7c7b\u578b",
+   "link_to": "Loan Type",
    "type": "DocType"
   },
   {
-   "label": "Chapter",
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u7ae0",
    "link_to": "Chapter",
    "type": "DocType"
   },
   {
-   "label": "Chapter Member",
-   "link_to": "Chapter Member",
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u7533\u8bf7\u8d37\u6b3e",
+   "link_to": "Loan Application",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u62e8\u6b3e\u7533\u8bf7",
+   "link_to": "Grant Application",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u6350\u8d60\u8005",
+   "link_to": "Donor",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u6210\u5458",
+   "link_to": "Member",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u4f1a\u5458",
+   "link_to": "Membership",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u4f1a\u5458\u79cd\u7c7b",
+   "link_to": "Membership Type",
    "type": "DocType"
   }
  ],
