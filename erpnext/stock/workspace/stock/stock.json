@@ -701,7 +701,7 @@
    "type": "Link"
   }
  ],
- "modified": "2021-09-02 12:07:00.563488",
+ "modified": "2021-09-02 12:55:44.274918",
  "modified_by": "Administrator",
  "module": "Stock",
  "name": "Stock",
@@ -1046,5 +1046,5 @@
   }
  ],
  "shortcuts_label": "Quick Access",
- "title": "Stock"
+ "title": "\u5e93\u5b58"
 }

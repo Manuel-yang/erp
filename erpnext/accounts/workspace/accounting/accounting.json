@@ -1054,7 +1054,7 @@
    "type": "Link"
   }
  ],
- "modified": "2021-09-02 09:44:09.855472",
+ "modified": "2021-09-02 12:57:55.296268",
  "modified_by": "Administrator",
  "module": "Accounts",
  "name": "Accounting",
@@ -1181,5 +1181,5 @@
    "type": "DocType"
   }
  ],
- "title": "Accounting"
+ "title": "\u8d26\u6237"
 }

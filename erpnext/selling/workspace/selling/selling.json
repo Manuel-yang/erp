@@ -530,7 +530,7 @@
    "type": "Link"
   }
  ],
- "modified": "2021-09-02 11:41:43.083023",
+ "modified": "2021-09-02 12:55:52.667849",
  "modified_by": "Administrator",
  "module": "Selling",
  "name": "Selling",
@@ -847,5 +847,5 @@
   }
  ],
  "shortcuts_label": "Quick Access",
- "title": "Selling"
+ "title": "\u9500\u552e"
 }

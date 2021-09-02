@@ -265,7 +265,7 @@
    "type": "Link"
   }
  ],
- "modified": "2021-09-02 10:40:42.507148",
+ "modified": "2021-09-02 12:57:01.450043",
  "modified_by": "Administrator",
  "module": "Manufacturing",
  "name": "Manufacturing",
@@ -432,5 +432,5 @@
    "type": "DocType"
   }
  ],
- "title": "Manufacturing"
+ "title": "\u751f\u4ea7"
 }
