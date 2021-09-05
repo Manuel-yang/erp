@@ -56,13 +56,13 @@ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | 
 ```
 After nvm is installed, you may have to close your terminal and open another one. Now run the following command to install node.
 ```
-nvm install 12
+nvm install 14
 ```
 Verify the installation, by running:
 ```
 node -v
 # output
-v12.16.2
+v14.16.2
 ```
 Finally, install yarn using npm
 ```
