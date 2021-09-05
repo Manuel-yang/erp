@@ -64,6 +64,7 @@ node -v
 # output
 v14.16.2
 ```
+Or follow this https://joshtronic.com/2020/04/23/how-to-install-nodejs-14-on-ubuntu-2004-lts/  to download nodejs14
 Finally, install yarn using npm
 ```
 npm install -g yarn
